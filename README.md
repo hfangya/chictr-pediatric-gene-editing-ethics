@@ -1,6 +1,6 @@
 # Analysis code for "Beyond Written Rules: Institutional Failures and Reform Priorities in China's Ethics Governance of Pediatric Gene Editing"
 
-This repository contains the analysis code for the ChiCTR registry audit component of the manuscript (submitted to *BMC Medical Ethics*). The dataset is available on the Open Science Framework: [OSF link to be added].
+This repository contains the analysis code for the ChiCTR registry audit component of the manuscript (submitted to *BMC Medical Ethics*). The dataset is available on the Open Science Framework: https://osf.io/vp6ny/overview?view_only=c205816a07c44da4bdc304a5667affca.
 
 ## Contents
 
