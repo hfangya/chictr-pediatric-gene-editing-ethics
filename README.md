@@ -17,7 +17,7 @@ Install: `pip install pandas numpy scipy matplotlib jupyter`
 
 ## Running the analysis
 
-1. Download `ChiCTR.xlsx` (raw extraction sheet, 48 records pre-screening) from the OSF project (link above) and set `DATA_PATH` in the notebook to its location. The notebook performs screening, duplicate removal, and coding, and exports `chictr_included_studies.csv` (23 unique trials) at the end.
+1. Obtain `ChiCTR.xlsx` (raw extraction sheet, 48 records pre-screening) and set `DATA_PATH` in the notebook to its location. The notebook performs screening, duplicate removal, and coding, and exports `chictr_included_studies.csv` (23 unique trials) at the end.
 2. Run all cells top to bottom.
 
 The notebook performs, in order:
